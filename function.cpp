@@ -1,9 +1,13 @@
 #include “function.h”
-int search(int *arr, int length, int value);
+int find_min(int *arr, int length);
 {
-//code
+// code
 }
-void sort(int* arr, int length)
+int find_max(int *arr, int length)
 {
-// code: sort cua nhanh master
+// code
+}
+int SORT(int *arr, int length)
+{
+// SORT cua nhanh feature
 }
